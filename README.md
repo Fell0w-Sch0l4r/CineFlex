@@ -29,6 +29,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Este projeto faz parte do evento #7daysofcode da Alura.
+Este projeto faz parte do evento [7 Days of Code](https://7daysofcode.io/) da [Alura](https://www.alura.com.br).
 
 [![Alura](https://img.shields.io/badge/Alura-7%20Days%20of%20Code-orange)](https://www.alura.com.br)
