@@ -12,7 +12,8 @@ import java.net.http.HttpResponse;
 
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
-        var apiKey = System.getenv("OMDB_API_KEY");
+        
+        var apiKey = System.getenv("IMDB_API_KEY");
 
         var endereco = "https://imdb-api.com/en/API/Top250Movies/" + apiKey;
 
