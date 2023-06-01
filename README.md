@@ -12,16 +12,16 @@ Projeto em Java que consome a API do IMDB para obter o ranking dos 250 melhores 
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/cineflex.git`
 2. Navegue até o diretório do projeto: `cd cineflex`
-3. Certifique-se de ter o Maven instalado. Caso contrário, você pode fazer o download e instalá-lo a partir do site oficial do Maven.
+3. Certifique-se de ter o Maven instalado. Caso contrário, pode fazer o download e instalá-lo a partir do site oficial do Maven.
 4. Execute o comando: `mvn clean install` para baixar as dependências do projeto e compilar o código.
-5. Abra o projeto em sua IDE Java preferida.
+5. Abra o projeto na sua IDE Java preferida.
 6. Certifique-se de que a IDE esteja configurada para reconhecer o projeto como um projeto Maven.
 7. Execute a aplicação principal `Main.java`.
 8. Os resultados do ranking dos filmes serão exibidos no console.
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
