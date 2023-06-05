@@ -19,7 +19,7 @@ Projeto em Java que consome a API do IMDB para obter o ranking dos 250 melhores 
 6. Certifique-se de que a IDE esteja configurada para reconhecer o projeto como um projeto Maven.
 7. Na classe `IMDBApiConfig`, substitua a constante `API_KEY` pela sua chave de API da IMDb.
 8. Execute a aplicação principal `Main.java`.
-9. Os resultados do ranking dos filmes serão exibidos no console.
+9. Os resultados do ranking dos filmes serão exibidos na consola.
 
 ## Contribuição
 
